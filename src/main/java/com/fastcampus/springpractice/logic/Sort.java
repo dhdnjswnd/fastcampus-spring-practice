@@ -1,4 +1,4 @@
-package org.fastcampus.logic;
+package com.fastcampus.springpractice.logic;
 
 import java.util.List;
 
